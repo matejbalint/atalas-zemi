@@ -1,0 +1,21 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 0.95rem;
+}
+
+#continent {
+    max-width: 300px;
+}
+
+.modal-body img {
+    max-height: 150px;
+    object-fit: contain;
+}
